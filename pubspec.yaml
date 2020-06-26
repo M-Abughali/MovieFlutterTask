@@ -31,6 +31,9 @@ dependencies:
   scoped_model: ^0.3.0
   font_awesome_flutter: ^8.0.1
   http: ^0.12.0
+  flutter_svg:
+  flutter_time_picker_spinner:
+  sprintf: "^4.0.0"
 
 dev_dependencies:
   flutter_test:
@@ -48,6 +51,9 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  assets:
+    - assets/
+    - assets/images/
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
@@ -78,3 +84,8 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  fonts:
+    - family: Distant Galaxy
+      fonts:
+        - asset: fonts/Montserrat-SemiBold.otf
+        - asset: fonts/Montserrat-Black.otf

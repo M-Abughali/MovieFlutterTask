@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="24" viewBox="0 0 20 24">
+    <defs>
+        <filter id="prefix__a">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.470588 0 0 0 0 0.564706 0 0 0 0 0.611765 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" filter="url(#prefix__a)">
+        <path fill="#000" fill-rule="nonzero" d="M10 0C8.965 0 8.125.806 8.125 1.8v.834C4.891 3.434 2.5 6.246 2.5 9.6v7.2L.581 18.187H.58C.219 18.407 0 18.79 0 19.2c0 .663.56 1.2 1.25 1.2h17.5c.69 0 1.25-.537 1.25-1.2 0-.41-.218-.792-.579-1.012L17.5 16.8V9.6c0-3.354-2.391-6.165-5.625-6.966V1.8c0-.994-.84-1.8-1.875-1.8zM7.5 21.6c0 1.32 1.125 2.4 2.5 2.4s2.5-1.08 2.5-2.4h-5z"/>
+    </g>
+</svg>
